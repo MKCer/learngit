@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Branch managing is easy.
 Stash is a good command.
+This from shadowMKCer01.
