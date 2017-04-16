@@ -1,0 +1,3 @@
+Normal used command
+
+git checkout .&& git clean -xdf #清空缓冲区所有修改
